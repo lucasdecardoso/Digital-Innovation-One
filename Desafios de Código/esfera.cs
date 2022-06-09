@@ -8,10 +8,7 @@ O arquivo de entrada contém um valor de ponto flutuante (dupla precisão), corr
 
 Saída
 A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. 
-O valor deverá ser apresentado com 3 casas após o ponto.
-
- 
-Abaixo segue um exemplo de código que você pode ou não utilizar*/
+O valor deverá ser apresentado com 3 casas após o ponto.*/
 
 using System;
 

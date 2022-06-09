@@ -6,9 +6,7 @@ Entrada
 O arquivo de entrada contém 100 números inteiros, positivos e distintos.
 
 Saída
-Apresente o maior valor lido e a posição de entrada, conforme exemplo abaixo.
-
-Abaixo segue um exemplo de código que você pode ou não utilizar*/
+Apresente o maior valor lido e a posição de entrada, conforme exemplo abaixo.*/
 
 using System; 
 

@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.exe
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.deps.json
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.runtimeconfig.json
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.dll
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\ref\AbstraindoJogoRPG.dll
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\bin\Debug\net6.0\AbstraindoJogoRPG.pdb
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.dll
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\ref\AbstraindoJogoRPG.dll
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.pdb
+C:\Users\lucas\OneDrive\Profissional\Cursos\DIO\AbstraindoJogoRPG\obj\Debug\net6.0\AbstraindoJogoRPG.genruntimeconfig.cache

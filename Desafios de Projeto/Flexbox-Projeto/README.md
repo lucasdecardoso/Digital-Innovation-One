@@ -1,3 +1,3 @@
 #### :purple_circle: Posicionando elementos com Flexbox em CSS
 
-Praticando conhecimentos 
+Página criada para praticar os fundamentos de Flexbox.

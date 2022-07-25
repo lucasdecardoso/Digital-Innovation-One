@@ -1,1 +1,1 @@
-# :purple_circle:	Desafios de Código da plataforma DIO
+# :yellow_circle:	Desafios de Código da plataforma DIO
